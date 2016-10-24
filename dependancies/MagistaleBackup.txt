@@ -1,0 +1,719 @@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Linguaggi e ambienti multim... - Linguaggi e ambie...@FARINETTI LAURA@5T@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 13:00:00@Linguaggi e ambienti multim... - Linguaggi e ambie...@FARINETTI LAURA@5T@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Applicazioni avanzate di fi... - Applicazioni avan...@ASINARI PIETRO@4P@AA - GZ - 1@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Architettura ed economia ur... - Estimo@BOTTERO MARTA CARLA@207@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Architettura ed economia ur... - Estimo@BOTTERO MARTA CARLA@207@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Applicazioni avanzate di fi... - Modelli e metodi ...@CANUTO CLAUDIO@4P@AA - GZ - 1@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Network modelling and stoch... - Network modelling@AJMONE MARSAN MARCO GIUSEPPE@8I@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 19:00:00@Atelier CompatibilitÃ e sos... - Restauro@NOVELLI FRANCESCO@8V@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Statistica@FONTANA ROBERTO@5M@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Architettura ed economia ur... - Composizione arch...@BERTA MAURO@207@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Architettura ed economia ur... - Composizione arch...@BERTA MAURO@207@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 13:00:00@Materiali per l'industria d...@BANCHERO MAURO@9B@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 11:30:00@Advanced electronic drives@MUSOLINO FRANCESCO@10@AA - ZZ - 0@
+11/06/2015 16:00:00@11/06/2015 19:00:00@Reliable embedded systems d...@PRINETTO PAOLO ERNESTO@3I@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Progetto di missioni e sist... - Progetto di missi...@CORPINO SABRINA@8N@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Progetto di missioni e sist... - Progetto di missi...@CORPINO SABRINA@8N@AA - ZZ - 0@
+09/06/2015 17:30:00@09/06/2015 20:30:00@Wireless and optical systems@POGGIOLINI PIERLUIGI@5S@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 16:00:00@Architettura ed economia ur... - Architettura del ...@BAGLIANI FRANCESCA@207@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 17:30:00@Architettura ed economia ur... - Architettura del ...@BAGLIANI FRANCESCA@207@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Sperimentazione su struttur... - Sperimentazione s...@FRULLA GIACOMO@19@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Electronic systems for mech...@CHIABERGE MARCELLO@11T@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Workshop "Disegno dal vero ...@BLOTTO LAURA@4V@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Energy savings and comfort ...@FRACASTORO GIOVANNI VINCENZO@17A@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 16:00:00@Energy savings and comfort ...@FRACASTORO GIOVANNI VINCENZO@17A@AA - ZZ - 0@
+11/06/2015 13:00:00@11/06/2015 16:00:00@Advanced experimental physics@GONNELLI RENATO@21A@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Textile technology - Advanced textile ...@MALUCELLI GIULIO@DISAT1F@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Textile technology - Advanced textile ...@MALUCELLI GIULIO@DISAT1F@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Textile technology - Advanced textile ...@MALUCELLI GIULIO@DISAT1F@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 17:30:00@Progetto di reti locali@RISSO FULVIO GIOVANNI OTTAVIO@3I@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Tecnologia dei materiali da...@VITALE BROVARONE CHIARA@2P@AA - GZ - 1@
+10/06/2015 16:00:00@10/06/2015 19:00:00@Economia delle fonti di ene...@ABATE ANTONIO@13@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Economia delle fonti di ene...@ABATE ANTONIO@13@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 13:00:00@Radiating electromagnetic s...@MATEKOVITS LADISLAU@10D@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Stochastic processes/Modell... - Modelli statistici@GASPARINI MAURO@6C@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 17:30:00@Architettura ed economia ur... - Storia dell'archi...@DE PIERI FILIPPO@207@AA - ZZ - 0@
+09/06/2015 17:30:00@09/06/2015 19:00:00@Architettura ed economia ur... - Storia dell'archi...@DE PIERI FILIPPO@207@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Servizi ICT innovativi@LAMBERTI FABRIZIO@LEP A (DIGEP)@AA - ZZ - 0@
+08/06/2015 13:30:00@08/06/2015 18:00:00@Combustion engines and thei...@MITTICA ANTONIO@LAB@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 10:00:00@Ingegneria degli acquiferi@SETHI RAJANDREA@7N@AA - ZZ - 0@
+10/06/2015 17:30:00@10/06/2015 19:00:00@Industrial networks and rea...@VIOLANTE MASSIMO@4@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 14:30:00@Teoria e progetto delle cos...@GIORDANO LUCA@7N@AA - LZ - 1@
+08/06/2015 14:30:00@08/06/2015 16:00:00@Teoria e progetto delle cos...@GIORDANO LUCA@7N@AA - LZ - 1@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Applicazioni avanzate di fi... - Modelli e metodi ...@CANUTO CLAUDIO@29B@AA - GZ - 1@
+10/06/2015 17:30:00@10/06/2015 19:00:00@Applicazioni avanzate di fi... - Modelli e metodi ...@CANUTO CLAUDIO@6C@AA - GZ - 1@
+08/06/2015 10:00:00@08/06/2015 13:00:00@Atelier di pianificazione l... - Analisi e progett...@ROLFO DAVIDE@5V@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Complementi di geotecnica@DEL GRECO OTELLO@15S@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Impianti nucleari a fissione@BERTANI CRISTINA@CAPETTI@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Impianti nucleari a fissione@BERTANI CRISTINA@CAPETTI@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Quantum solid state physics@MONTORSI ARIANNA@5N@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 11:30:00@Ingegneria dei materiali@MARINO FRANCESCO@2C@AA - ZZ - 0@
+11/06/2015 16:00:00@11/06/2015 17:30:00@Ingegneria dei materiali@MARINO FRANCESCO@2C@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 14:30:00@Radar and remote sensing@MAGGIORA RICCARDO@1T@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Accumulo e trasporto di ene...@CHIAVAZZO ELIODORO@23@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Sistemi elettrici di potenza@CARPANETO ENRICO@19A@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Sistemi energetici@BADAMI MARCO@23@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 13:00:00@Sistemi energetici@BADAMI MARCO@23@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 16:00:00@Geotecnica sismica@FOTI SEBASTIANO@Aula B - Area Diati/Trasporti@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Applicazioni avanzate di fi... - Applicazioni avan...@ASINARI PIETRO@2N@AA - GZ - 1@
+10/06/2015 08:30:00@10/06/2015 13:00:00@Atelier Progetto urbanistico B - Urbanistica @ALBANO ROBERTO@7V@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Stampi e processi di formatura@MINETOLA PAOLO@6P@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Quantum solid state physics@MONTORSI ARIANNA@21A@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Advanced experimental physics@GONNELLI RENATO@5N@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Quantum solid state physics@MONTORSI ARIANNA@21A@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Business intelligence@CERQUITELLI TANIA@1D@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 19:00:00@Ingegneria degli acquiferi@SETHI RAJANDREA@LGI@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 17:30:00@Diritto commerciale@SARALE MARCELLA@11B@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 16:00:00@Diritto commerciale@SARALE MARCELLA@11B@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 13:00:00@Diritto commerciale@SARALE MARCELLA@11B@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 10:00:00@Sociologia urbana e legisla...@NOVASCONE ROBERTA@10V@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 13:00:00@Sociologia urbana e legisla...@NOVASCONE ROBERTA@10V@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Economia dei sistemi indust...@CAMBINI CARLO@5@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Economia dei sistemi indust...@CAMBINI CARLO@5@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Meccanica delle rocce@SCAVIA CLAUDIO@15A@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Reliable embedded systems d...@PRINETTO PAOLO ERNESTO@5I@AA - ZZ - 0@
+10/06/2015 10:30:00@10/06/2015 13:30:00@Sistemi aperti - Teoria e storia d...@PERUCCIO PIER PAOLO@08AM@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Gestione ambientale nelle i...@COMOGLIO CLAUDIO@BIBOLINI@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 14:30:00@Progetto di missioni e sist... - Propulsione spaziale@CASALINO LORENZO@17A@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 16:00:00@Electronic properties of ma...@GHIONE GIOVANNI@10@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 19:00:00@Diritto commerciale@SARALE MARCELLA@10A@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Diritto commerciale@SARALE MARCELLA@10A@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Sistemi energetici@BADAMI MARCO@19A@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Idraulica fluviale/Acquedot... - Acquedotti e fogn...@BOANO FULVIO@Aula B - Area Diati/Trasporti@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 17:30:00@Economia e gestione competi...@BOMPARD ETTORE FRANCESCO@1P@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 16:00:00@Accumulo e trasporto di ene...@CHIAVAZZO ELIODORO@3P@AA - ZZ - 0@
+12/06/2015 13:00:00@12/06/2015 16:00:00@Catalisi per l'ambiente e l...@RUSSO NUNZIO@9S@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 14:30:00@Applicazioni avanzate di fi... - Modelli e metodi ...@CANUTO CLAUDIO@16@AA - GZ - 1@
+08/06/2015 11:30:00@08/06/2015 14:30:00@Aeroacustica/Aerodinamica s... - Aerodinamica sper...@IUSO GAETANO@19@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 16:00:00@Aeroacustica/Aerodinamica s... - Aerodinamica sper...@IUSO GAETANO@19@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Progettazione di dispositiv... - Progettazione di ...@KNAFLITZ MARCO@7N@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 13:00:00@Progettazione di dispositiv... - Progettazione di ...@KNAFLITZ MARCO@7N@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Tecnologia degli impianti n...@DE SALVE MARIO@CAPETTI@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Tecnologia degli impianti n...@DE SALVE MARIO@CAPETTI@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 16:00:00@Electronic Systems and Tech...@CAPPELLUTI FEDERICA@11T@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Electronic Systems and Tech...@CAPPELLUTI FEDERICA@11T@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Complementi di ingegneria s...@GENON GIUSEPPE@1P@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 10:00:00@Geophysical prospecting@SOCCO LAURA@3P@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 17:30:00@Geotecnica sismica@FOTI SEBASTIANO@17A@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 17:30:00@Sensori e misure per la bio...@VALLAN ALBERTO@1I@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 16:00:00@Risk Analysis@CARPIGNANO ANDREA@4P@AA - ZZ - 0@
+12/06/2015 13:00:00@12/06/2015 16:00:00@Algorithms for optimization...@BRAUNSTEIN ALFREDO@2D@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 16:00:00@Operations research: theory...@LEONARDI EMILIO@LADISPE - Sala A@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 14:30:00@Motori per aeromobili@PASTRONE DARIO GIUSEPPE@4M@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@PlasticitÃ e frattura@CARPINTERI ALBERTO@Aula B - Area Diati/Trasporti@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@PlasticitÃ e frattura@CARPINTERI ALBERTO@Aula B - Area Diati/Trasporti@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 14:30:00@Automation and planning of ...@CARLUCCI DONATO@5N@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Thermal design and optimiza...@LEONE PIERLUIGI@27B@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Microelectronic devices@DONATI GUERRIERI SIMONA@2D@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 13:00:00@Mobile and sensor networks@CHIASSERINI CARLA FABIANA@2I@AA - ZZ - 0@
+09/06/2015 13:30:00@09/06/2015 16:30:00@Sistemi aperti - Procedure per la ...@QUAGLINO ALBERTO@08AM@AA - ZZ - 0@
+11/06/2015 15:00:00@11/06/2015 18:00:00@Sistemi aperti - Procedure per la ...@QUAGLINO ALBERTO@08AM@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Gestione dell'innovazione e...@DEMARTINI CLAUDIO GIOVANNI@11@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 16:00:00@Modellazione funzionale del...@TORNINCASA STEFANO@LAIB3D@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Workshop "Progettare spazi ...@BAZZANELLA LILIANA@10V@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Workshop "Progettare spazi ...@BAZZANELLA LILIANA@10V@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 14:30:00@Operations research: theory...@LEONARDI EMILIO@10@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Mobile application development@MALNATI GIOVANNI@4D@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Mobile application development@MALNATI GIOVANNI@4D@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 19:00:00@Gestione dell'innovazione e...@CANTAMESSA MARCO@1I@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 13:00:00@Gestione dell'innovazione e...@CANTAMESSA MARCO@1I@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Synthesis and optimization ...@CALIMERA ANDREA@LABINF@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Electronic properties of ma...@GHIONE GIOVANNI@2I@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 13:00:00@Materiali per l'industria d...@BANCHERO MAURO@4P@AA - ZZ - 0@
+12/06/2015 10:30:00@12/06/2015 13:30:00@Sistemi aperti - Gestione economic...@PUDDU EUGENIO@08AM@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 10:00:00@Models and scenarios for en...@ZUCCHETTI MASSIMO@4M@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 10:00:00@Models and scenarios for en...@ZUCCHETTI MASSIMO@4M@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 14:30:00@Devices for optical communi...@PERRONE GUIDO@2I@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 13:00:00@Atelier CompatibilitÃ e sos... - Restauro@BENENTE MICHELA@7V@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 11:30:00@Electronic Systems and Tech...@CAPPELLUTI FEDERICA@12D@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 14:30:00@Scienza e tecnologia dei ma...@VITALE BROVARONE CHIARA@29@AA - LZ - 1@
+08/06/2015 09:00:00@08/06/2015 13:30:00@Commercialization and relat...@FERRERO PAOLO FEDERICO@06AM@AA - ZZ - 0@
+09/06/2015 16:30:00@09/06/2015 18:00:00@Commercialization and relat...@FERRERO PAOLO FEDERICO@06AM@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 19:00:00@Sicurezza nei cantieri@MORRA LUIGI@3D@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 13:00:00@Sicurezza nei cantieri@MORRA LUIGI@3D@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Applicazioni avanzate di fi... - Modelli e metodi ...@CANUTO CLAUDIO@2N@AA - GZ - 1@
+11/06/2015 13:00:00@11/06/2015 14:30:00@Structural mechanics/Petrol... - Structural mechanics@SURACE CECILIA@7N@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 16:00:00@Modellazione funzionale del...@TORNINCASA STEFANO@LAIB4D@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Programmazione distribuita I@MASALA ENRICO@4D@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 11:30:00@Operations research II@DELLA CROCE DI DOJOLA FEDERICO@13@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Operations research II@DELLA CROCE DI DOJOLA FEDERICO@13@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Operations research II@DELLA CROCE DI DOJOLA FEDERICO@13@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Geotecnica sismica@FOTI SEBASTIANO@19A@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Complementi di ingegneria s...@GENON GIUSEPPE@4M@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 10:00:00@Automatic control@BELFORTE GUSTAVO@6P@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Motori per aeromobili@PASTRONE DARIO GIUSEPPE@2N@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Architecture and urban space - Urban planning@CINA' GIUSEPPE@202@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Architecture and urban space - Urban planning@CINA' GIUSEPPE@202@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Architettura e spazio urbano A - Composizione arch...@CROTTI MASSIMO@208@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Architettura e spazio urbano A - Composizione arch...@CROTTI MASSIMO@208@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Idraulica ambientale/Idrolo... - Idrologia e clima...@LAIO FRANCESCO@19A@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Electronic properties of ma...@FERRERO SERGIO@2I@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Analysis and Management of ...@VILLA AGOSTINO@7T@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Analysis and Management of ...@VILLA AGOSTINO@7T@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 16:00:00@Network simulation@CASETTI CLAUDIO ETTORE@21A@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 19:00:00@Digital Communications@TARICCO GIORGIO@10@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 16:00:00@Electronic properties of ma...@FERRERO SERGIO@10@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 13:00:00@Geophysical prospecting@SOCCO LAURA@4P@AA - ZZ - 0@
+11/06/2015 13:00:00@11/06/2015 16:00:00@Azionamenti elettrici@VAGATI ALFREDO@15A@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Innovative wireless platfor...@TRINCHERO DANIELE@LED 1@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Tecnologia dei materiali po...@SANGERMANO MARCO@DISAT-A1@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 19:00:00@Thermal measurements and co...@DE MARCHI ANDREA@4P@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Sistemi aerospaziali@CORPINO SABRINA@3N@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Sistemi aerospaziali@CORPINO SABRINA@3N@AA - ZZ - 0@
+11/06/2015 16:00:00@11/06/2015 17:30:00@Sensori e misure per la bio...@VALLAN ALBERTO@3N@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Workshop "Disegno dal vero ...@BLOTTO LAURA@5V@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Modelli matematici in biome...@PREZIOSI LUIGI@23@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 13:00:00@Distributed programming@SISTO RICCARDO@LABINF@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 13:00:00@Modelli matematici in biome...@PREZIOSI LUIGI@25@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 11:30:00@Modellazione@ simulazione e... - Simulazione del volo@AA - ZZ - 0@GUGLIERI GIORGIO@
+09/06/2015 13:00:00@09/06/2015 16:00:00@Modellazione@ simulazione e... - Simulazione del volo@AA - ZZ - 0@GUGLIERI GIORGIO@
+08/06/2015 13:00:00@08/06/2015 14:30:00@Motori per aeromobili@PASTRONE DARIO GIUSEPPE@3N@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 14:30:00@Motori per aeromobili@PASTRONE DARIO GIUSEPPE@3N@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 13:00:00@Models and scenarios for en...@ZUCCHETTI MASSIMO@6N@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Architecture and urban econ... - Real Estate evalu...@LOMBARDI PATRIZIA@203@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Architecture and urban econ... - Real Estate evalu...@LOMBARDI PATRIZIA@203@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Operations research: theory...@LEONARDI EMILIO@2D@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 13:00:00@Fluidodinamica computaziona... - Fluidodinamica co...@LAROCCA FRANCESCO@LAIB1D@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 14:30:00@Sistemi biomimetici@TONDA TURO CHIARA@3P@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Progetto di infrastrutture ... - Pianificazione de...@DIANA MARCO@1P@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Progetto di infrastrutture ... - Pianificazione de...@DIANA MARCO@1P@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Controllo digitale di conve...@PELLEGRINO GIAN - MARIO LUIGI@13B@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 13:00:00@Complementi di macchine e m...@NUCCIO PATRIZIO@29B@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 19:00:00@Modellazione@ simulazione e... - Modellazione@MAGGIORE PAOLO@ sim...@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Modellazione@ simulazione e... - Modellazione@MAGGIORE PAOLO@ sim...@
+09/06/2015 14:30:00@09/06/2015 16:00:00@Programmazione di sistema@CABODI GIANPIERO@LAIB4D@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 17:30:00@Programmazione di sistema@CABODI GIANPIERO@LAIB4D@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 19:00:00@Tunnelling@PEILA DANIELE@17A@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 11:30:00@Integrated Manufacturing Sy...@SALMI ALESSANDRO@15@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 11:30:00@Applicazioni Internet@MALNATI GIOVANNI@4D@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 16:00:00@Applicazioni Internet@MALNATI GIOVANNI@4D@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Microelectronic systems@GRAZIANO MARIAGRAZIA@2D@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 17:30:00@Advanced engineering thermo... - Numerical modelling@CANUTO CLAUDIO@LAIB4D@AA - ZZ - 0@
+12/06/2015 13:00:00@12/06/2015 16:00:00@Sistemi elettronici per la ...@MARTINA MAURIZIO@11T@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 14:30:00@Microwave electronics@GHIONE GIOVANNI@10@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Architettura e spazio urbano A - Architettura del ...@LUCCHINI CHIARA@208@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Architettura e spazio urbano A - Architettura del ...@LUCCHINI CHIARA@208@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Machine design@GOLA MUZIO@4C@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 16:00:00@Marketing and Fashion produ...@CASALEGNO CECILIA GIULIANA@DISAT1F@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Marketing and Fashion produ...@CASALEGNO CECILIA GIULIANA@DISAT1F@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 19:00:00@Atelier Progettazione urbana A - Composizione arch...@MONCALVO ENRICO@15A@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 16:00:00@Advanced engineering thermo... - Numerical modelling@CANUTO CLAUDIO@10C@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Strutture aeronautiche@DI SCIUVA MARCO@2N@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 13:00:00@Sperimentazione su struttur... - Tecnologie aerosp...@CESTINO ENRICO@13A@AA - ZZ - 0@
+11/06/2015 13:00:00@11/06/2015 14:30:00@Sperimentazione su struttur... - Tecnologie aerosp...@CESTINO ENRICO@13A@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Physics of technological pr... - Physics of techno...@SCALTRITO LUCIANO@5I@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Projects and laboratory on ...@ALBERTENGO GUIDO@2I@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 14:30:00@Projects and laboratory on ...@ALBERTENGO GUIDO@2I@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 13:00:00@Gestione del progetto e del...@PIANTANIDA PAOLO@5B@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 14:30:00@Business intelligence@CERQUITELLI TANIA@LEP A (DIGEP)@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 16:00:00@Innovation management and p...@MONTAGNA FRANCESCA@LEP A (DIGEP)@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Workshop "Collaudare il cos...@PISTONE GIUSEPPE@10UP@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Workshop "Collaudare il cos...@PISTONE GIUSEPPE@10UP@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Recupero e conservazione de...@OSTORERO CARLO@5D@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 19:00:00@Recupero e conservazione de...@OSTORERO CARLO@5D@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 14:30:00@Meccanica del volo dell'eli...@GUGLIERI GIORGIO@17A@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Machine design@GOLA MUZIO@3D@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Idraulica ambientale/Idrolo... - Idrologia e clima...@LAIO FRANCESCO@LAIB2B@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Scienza e tecnologia dei ma...@FINO PAOLO@DISAT-A1@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 19:00:00@Physics of technological pr... - Physics of techno...@SCALTRITO LUCIANO@10D@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 19:00:00@Electronic properties of ma...@GHIONE GIOVANNI@11T@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 16:00:00@Effetti speciali@BOERI CHIARA@5T@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 19:00:00@Effetti speciali@BOERI CHIARA@5T@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Network simulation@CASETTI CLAUDIO ETTORE@LAIB5D@AA - ZZ - 0@
+09/06/2015 17:30:00@09/06/2015 19:00:00@Architecture and urban econ... - Sociology@MONACI SARA@203@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Industrial Economics@BUZZACCHI LUIGI@10D@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 16:00:00@Formal languages and compilers@RIVOIRA SILVANO@4D@AA - ZZ - 0@
+11/06/2015 16:00:00@11/06/2015 17:30:00@Formal languages and compilers@RIVOIRA SILVANO@4D@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Microelectronic systems@GRAZIANO MARIAGRAZIA@10@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Microelectronic systems@GRAZIANO MARIAGRAZIA@10@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 11:30:00@Sistemi elettrici di potenza@CARPANETO ENRICO@23@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Network simulation@CASETTI CLAUDIO ETTORE@12D@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Diritto commerciale@SARALE MARCELLA@11@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Diritto commerciale@SARALE MARCELLA@11@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Diritto commerciale@SARALE MARCELLA@13@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Advanced electronic drives@MUSOLINO FRANCESCO@6D@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Idrogeologia applicata@DE MAIO MARINA@6C@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Sistemi non lineari per l'i...@GILLI MARCO@1D@AA - ZZ - 0@
+08/06/2015 17:30:00@08/06/2015 19:00:00@Automatic control@BELFORTE GUSTAVO@LAIB5D@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Tecniche di modellazione nu...@GUGLIOTTA ANTONIO@19@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Tecniche di modellazione nu...@GUGLIOTTA ANTONIO@19@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Economia e gestione competi...@BOMPARD ETTORE FRANCESCO@LAIB1D@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 13:00:00@Petroleum chemistry and Tec...@GOZZELINO GIUSEPPE@3P@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Analog and telecommunicatio...@DEL CORSO DANTE@2D@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 16:00:00@Analisi finanziaria e credi...@VARETTO FRANCO@11@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Analisi finanziaria e credi...@VARETTO FRANCO@11@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Workshop "Fotogrammetria di...@SPANO' ANTONIA TERESA@LIA@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Workshop "Fotogrammetria di...@SPANO' ANTONIA TERESA@LIA@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Structural mechanics/Petrol... - Structural mechanics@SURACE CECILIA@15A@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 16:00:00@Structural mechanics/Petrol... - Structural mechanics@SURACE CECILIA@15A@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 10:00:00@Informatica grafica@LAMBERTI FABRIZIO@4D@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 14:30:00@InstabilitÃ statica e dinam... - Calcolo automatic...@CARBONE VINCENZO ILARIO@3D@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Sicurezza nei cantieri - Cantieri di opere...@BAGLIERI ORAZIO@Aula B - Area Diati/Trasporti@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Sicurezza nei cantieri - Cantieri di opere...@BAGLIERI ORAZIO@Aula B - Area Diati/Trasporti@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Sicurezza nei cantieri - Cantieri di opere...@BAGLIERI ORAZIO@Aula B - Area Diati/Trasporti@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 19:00:00@Climatizzazione@ acustica e...@AA - ZZ - 0@FILIPPI MARCO@
+11/06/2015 11:30:00@11/06/2015 13:00:00@Climatizzazione@ acustica e...@AA - ZZ - 0@FILIPPI MARCO@
+08/06/2015 16:00:00@08/06/2015 17:30:00@Integrated Manufacturing Sy...@SALMI ALESSANDRO@13@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Analog and telecommunicatio...@DEL CORSO DANTE@19@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Architecture and urban econ... - Economics and man...@BUZZACCHI LUIGI@203@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 14:30:00@Progettazione di dispositiv... - Progettazione di ...@KNAFLITZ MARCO@9I@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 19:00:00@Atelier CompatibilitÃ e sos... - Restauro@MATTONE MANUELA@7V@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 13:00:00@Atelier Progetto urbanistico E - Urbanistica @ARTUSO MARIO@2V@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Catalisi per l'ambiente e l...@RUSSO NUNZIO@19A@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Electronic Systems and Tech...@CAPPELLUTI FEDERICA@LED 4@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Idrogeologia applicata@DE MAIO MARINA@BIBOLINI@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Idrogeologia applicata@DE MAIO MARINA@BIBOLINI@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 19:00:00@Atelier Progetto urbanistico E - Urbanistica @ARTUSO MARIO@R4@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Atelier Progetto urbanistico E - Urbanistica @ARTUSO MARIO@R5@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Atelier Progetto urbanistico E - Urbanistica @ARTUSO MARIO@R5@AA - ZZ - 0@
+09/06/2015 13:30:00@09/06/2015 16:30:00@Company strategies and situ...@BIGANDO GIAN PIERO@06AM@AA - ZZ - 0@
+10/06/2015 13:30:00@10/06/2015 16:30:00@Company strategies and situ...@BIGANDO GIAN PIERO@06AM@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 13:00:00@Biomedical and industrial a...@RAVETTO PIERO@6C@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Meccanica dei fluidi indust...@CAMPOREALE CARLO VINCENZO@11B@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Teoria e progetto delle cos...@GIORDANO LUCA@4C@AA - LZ - 1@
+12/06/2015 10:00:00@12/06/2015 11:30:00@Stochastic processes/Modell... - Modelli statistici@GASPARINI MAURO@1D@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Ingegneria delle materie pr...@MARINI PAOLA@LAB ROCCE@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 17:30:00@Tecnologia dei materiali da...@VITALE BROVARONE CHIARA@7N@AA - GZ - 1@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Programmazione distribuita I@MASALA ENRICO@LABINF@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 10:00:00@PlasticitÃ e frattura@CARPINTERI ALBERTO@10C@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Radiation Protection@ZUCCHETTI MASSIMO@11B@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Environmental management en...@CHIAMPO FULVIA@DISAT1F@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Gestione dei sistemi logistici@RAFELE CARLO@11@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Gestione dei sistemi logistici@RAFELE CARLO@11@AA - ZZ - 0@
+12/06/2015 13:00:00@12/06/2015 19:00:00@Workshop "Storia del territ...@TOSCO CARLO MARIO@5V@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Industrial Economics@BUZZACCHI LUIGI@7T@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Industrial Economics@BUZZACCHI LUIGI@7T@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Tecnologia dei materiali da...@VITALE BROVARONE CHIARA@7S@AA - GZ - 1@
+08/06/2015 13:00:00@08/06/2015 16:00:00@Statistical physics and bio... - Statistical physics@PELIZZOLA ALESSANDRO@5N@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Statistical physics and bio... - Statistical physics@PELIZZOLA ALESSANDRO@5N@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 16:00:00@Analog and telecommunicatio...@DEL CORSO DANTE@4D@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 14:30:00@Analog and telecommunicatio...@DEL CORSO DANTE@4D@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Diritto commerciale@SARALE MARCELLA@19@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 19:00:00@Diritto commerciale@SARALE MARCELLA@19@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 16:00:00@Indicatori ecologici e toss...@COMINO ELENA@BIBOLINI@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Indicatori ecologici e toss...@COMINO ELENA@BIBOLINI@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 14:30:00@Diritto commerciale@SARALE MARCELLA@17@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Complementi di macchine e m...@NUCCIO PATRIZIO@12A@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Robotics@BONA BASILIO@LABINF@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 17:30:00@Car body design and aerodyn...@TONOLI ANDREA@LAIB2S@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 11:30:00@Geomatica@LINGUA ANDREA MARIA@4N@AA - LZ - 1@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Geomatica@LINGUA ANDREA MARIA@4N@AA - LZ - 1@
+10/06/2015 16:00:00@10/06/2015 19:00:00@Materiali per l'aerospazio@BIAMINO SARA@17A@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Tecnologia dei materiali da...@VITALE BROVARONE CHIARA@6P@AA - GZ - 1@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Microelettronica digitale@LAVAGNO LUCIANO@LED 3@AA - ZZ - 0@
+09/06/2015 17:30:00@09/06/2015 19:00:00@Statistica@FONTANA ROBERTO@LAIB2B@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Aerospace control systems@CANUTO ENRICO@2I@AA - ZZ - 0@
+12/06/2015 13:30:00@12/06/2015 18:00:00@Car body design and aerodyn...@TONOLI ANDREA@LAIB3S@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Bionanotecnologie@CIARDELLI GIANLUCA@29B@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Scienza e tecnologia dei ma...@BADINI CLAUDIO FRANCESCO@DISAT-A1@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 13:00:00@Fluid Automation@MAZZA LUIGI@11T@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Microelettronica digitale@LAVAGNO LUCIANO@11T@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Atelier Progetto urbanistico B - Sociologia dell'a...@MELA ALFREDO@7V@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 14:30:00@Economia degli intermediari...@VARETTO FRANCO@11@AA - ZZ - 0@
+10/06/2015 16:00:00@10/06/2015 17:30:00@Economia degli intermediari...@VARETTO FRANCO@11@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 10:00:00@Economia degli intermediari...@VARETTO FRANCO@11@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 13:00:00@Architettura e spazio urbano A - Urbanistica @SAMPIERI ANGELO@208@AA - ZZ - 0@
+08/06/2015 15:00:00@08/06/2015 18:00:00@Sistemi aperti - Design sistemico@BISTAGNINO LUIGI@08AM@AA - ZZ - 0@
+12/06/2015 15:00:00@12/06/2015 18:00:00@Sistemi aperti - Design sistemico@BISTAGNINO LUIGI@08AM@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Ingegneria del suono@MASOERO MARCO CARLO@5T@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 13:00:00@Machine design@GOLA MUZIO@15@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Passive Optical Components@ORTA RENATO@11S@AA - ZZ - 0@
+09/06/2015 17:30:00@09/06/2015 19:00:00@Synthesis and optimization ...@CALIMERA ANDREA@5I@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Passive Optical Components@ORTA RENATO@11S@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Synthesis and optimization ...@CALIMERA ANDREA@5I@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 13:00:00@Passive Optical Components@ORTA RENATO@11S@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 16:00:00@Ingegneria degli acquiferi@SETHI RAJANDREA@17A@AA - ZZ - 0@
+09/06/2015 09:00:00@09/06/2015 12:00:00@Electric and electronic sys...@CROVETTI PAOLO STEFANO@01AM@AA - ZZ - 0@
+10/06/2015 15:00:00@10/06/2015 18:00:00@Electric and electronic sys...@CROVETTI PAOLO STEFANO@01AM@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Operating systems@REBAUDENGO MAURIZIO@11T@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Sistemi biomimetici@TONDA TURO CHIARA@23@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Tirocinio@STARICCO LUCA@5V@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Guiding electromagnetic sys...@PIRINOLI PAOLA@11S@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 13:00:00@Guiding electromagnetic sys...@PIRINOLI PAOLA@11T@AA - ZZ - 0@
+08/06/2015 17:30:00@08/06/2015 19:00:00@Dispositivi impiantabili at...@KNAFLITZ MARCO@29B@AA - ZZ - 0@
+11/06/2015 09:00:00@11/06/2015 10:30:00@Electric and electronic sys...@CROVETTI PAOLO STEFANO@03AM@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 14:30:00@Radio planning@TRINCHERO DANIELE@LED 3@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 14:30:00@Radio planning@TRINCHERO DANIELE@LED 3@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 17:30:00@Architettura ed economia ur... - Estimo@LAMI ISABELLA MARIA@201@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Architettura ed economia ur... - Estimo@LAMI ISABELLA MARIA@201@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Radiation Protection@ZUCCHETTI MASSIMO@CAPETTI@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Ingegneria delle materie pr...@MARINI PAOLA@LGI@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Teoria e progetto delle cos...@GIORDANO LUCA@2M@AA - LZ - 1@
+12/06/2015 10:00:00@12/06/2015 11:30:00@Tecnologia dei materiali da...@VITALE BROVARONE CHIARA@5S@AA - GZ - 1@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Design of HVAC systems and ...@MASOERO MARCO CARLO@19@AA - ZZ - 0@
+08/06/2015 17:30:00@08/06/2015 19:00:00@Design of HVAC systems and ...@MASOERO MARCO CARLO@19@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 14:30:00@Design of HVAC systems and ...@MASOERO MARCO CARLO@19@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 14:30:00@Projects and laboratory on ...@ALBERTENGO GUIDO@5I@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Safety of nuclear plants@BERTANI CRISTINA@CAPETTI@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Safety of nuclear plants@BERTANI CRISTINA@CAPETTI@AA - ZZ - 0@
+10/06/2015 19:00:00@10/06/2015 20:30:00@Lingua italiana I livello@ABRAHAM SIMONA@3N@AA - ZZ - 4@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Ingegneria dei materiali@MARINO FRANCESCO@10C@AA - ZZ - 0@
+13/06/2015 08:30:00@13/06/2015 14:30:00@AttivitÃ formative esterne ...@INGARAMO ROBERTA@19@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Technology for renewable en...@FRACASTORO GIOVANNI VINCENZO@29B@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 11:30:00@Progetto di missioni e sist... - Propulsione spaziale@CASALINO LORENZO@1P@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Idraulica ambientale/Idrolo... - Idraulica ambientale@RIDOLFI LUCA@19A@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Statistical physics and bio... - Biophysics@PELIZZOLA ALESSANDRO@6D@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Workshop "Rappresentazione ...@CERESA FRANCA@2V@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Workshop "Rappresentazione ...@CERESA FRANCA@2V@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 14:30:00@Progettazione di protesi e ...@BIGNARDI CRISTINA@LAIB3D@AA - ZZ - 0@
+12/06/2015 13:00:00@12/06/2015 14:30:00@Progettazione di protesi e ...@BIGNARDI CRISTINA@LAIB3D@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Ingegneria dei materiali@MARINO FRANCESCO@8D@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Ingegneria dei materiali@MARINO FRANCESCO@8D@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 14:30:00@Progettazione di protesi e ...@BIGNARDI CRISTINA@9I@AA - ZZ - 0@
+12/06/2015 13:00:00@12/06/2015 14:30:00@Progettazione di protesi e ...@BIGNARDI CRISTINA@9I@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Geomatica@LINGUA ANDREA MARIA@2N@AA - LZ - 1@
+09/06/2015 11:30:00@09/06/2015 14:30:00@Simulazione dei sistemi ges...@ALFIERI ARIANNA@LEP A (DIGEP)@AA - ZZ - 0@
+08/06/2015 17:30:00@08/06/2015 19:00:00@Dispositivi impiantabili at...@KNAFLITZ MARCO@27B@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 13:00:00@Economia e gestione competi...@BOMPARD ETTORE FRANCESCO@LAIB5D@AA - ZZ - 0@
+08/06/2015 19:00:00@08/06/2015 20:30:00@Lingua italiana III livello@ABRAHAM SIMONA@3N@AA - ZZ - 0@
+09/06/2015 19:00:00@09/06/2015 20:30:00@Lingua italiana III livello@ABRAHAM SIMONA@3N@AA - ZZ - 0@
+12/06/2015 16:00:00@12/06/2015 19:00:00@Strutture aeronautiche@DI SCIUVA MARCO@LAIB1D@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Meccanica delle rocce@SCAVIA CLAUDIO@LAIB5D@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 16:00:00@Bionanotecnologie@CIARDELLI GIANLUCA@27B@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 16:00:00@Bionanotecnologie@CIARDELLI GIANLUCA@27B@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Servizi ICT innovativi@LAMBERTI FABRIZIO@11@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Integrated Manufacturing Sy...@SALMI ALESSANDRO@4C@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Statistical physics and bio... - Biophysics@PELIZZOLA ALESSANDRO@5N@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Analog and telecommunicatio...@DEL CORSO DANTE@LED 4@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Environmental management en...@CHIAMPO FULVIA@DISAT2F@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Petroleum chemistry and Tec...@GOZZELINO GIUSEPPE@8N@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 14:30:00@Robotics@BONA BASILIO@10@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 13:00:00@Atelier Progetto urbanistico A - Urbanistica @VOGHERA ANGIOLETTA@4V@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Guiding electromagnetic sys...@PIRINOLI PAOLA@10D@AA - ZZ - 0@
+08/06/2015 17:30:00@08/06/2015 19:00:00@Thermal design and optimiza...@LEONE PIERLUIGI@29@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Atelier Progetto urbanistico A - Sociologia dell'a...@FORNI ELISABETTA@4V@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 11:30:00@Reti wireless@CASETTI CLAUDIO ETTORE@11S@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Thermal design and optimiza...@LEONE PIERLUIGI@27@AA - ZZ - 0@
+12/06/2015 13:00:00@12/06/2015 16:00:00@Thermal design and optimiza...@LEONE PIERLUIGI@27@AA - ZZ - 0@
+09/06/2015 09:00:00@09/06/2015 12:00:00@Automotive fluid power systems@RUNDO MASSIMO@06AM@AA - ZZ - 0@
+10/06/2015 09:00:00@10/06/2015 12:00:00@Automotive fluid power systems@RUNDO MASSIMO@06AM@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Idraulica ambientale/Idrolo... - Idrologia e clima...@LAIO FRANCESCO@7N@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Workshop "Progettare e cert...@MUTANI GUGLIELMINA@5V@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Electromagnetic fields and ...@VECCHI GIUSEPPE@6D@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Mobile broadband network@CHIASSERINI CARLA FABIANA@2D@AA - ZZ - 0@
+11/06/2015 16:00:00@11/06/2015 17:30:00@Mobile broadband network@CHIASSERINI CARLA FABIANA@2D@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 19:00:00@Sistemi di propulsione elet...@TENCONI ALBERTO@5S@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Innovation and Internationa...@MANTELERO ALESSANDRO@13@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Innovation and Internationa...@MANTELERO ALESSANDRO@13@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 13:00:00@Innovation and Internationa...@MANTELERO ALESSANDRO@13@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 13:00:00@Simulazione dei sistemi ges...@ALFIERI ARIANNA@1I@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 11:30:00@Advanced engineering thermo... - Numerical modelling@CANUTO CLAUDIO@8D@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 10:00:00@Meccanica del volo dell'eli...@GUGLIERI GIORGIO@6P@AA - ZZ - 0@
+11/06/2015 16:00:00@11/06/2015 19:00:00@Computational methods for t...@ZANINO ROBERTO@LAIB2B@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 13:00:00@Atelier CompatibilitÃ e sos... - Strumenti avanzat...@CHIABRANDO FILIBERTO@8V@AA - ZZ - 0@
+12/06/2015 13:00:00@12/06/2015 14:30:00@Fluid power I@RUNDO MASSIMO@19A@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 17:30:00@Aeroacustica/Aerodinamica s... - Aeroacustica@ARINA RENZO@19@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Microwave electronics@GHIONE GIOVANNI@LED 6@AA - ZZ - 0@
+11/06/2015 16:00:00@11/06/2015 19:00:00@Microwave electronics@GHIONE GIOVANNI@LED 6@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Algorithms for optimization...@BRAUNSTEIN ALFREDO@21A@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Tecnica ed economia dei tra...@PRONELLO CRISTINA@4C@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Architecture and urban space - Economic and poli...@GOVERNA FRANCESCA@202@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Architecture and urban space - Economic and poli...@GOVERNA FRANCESCA@202@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Tunnelling@PEILA DANIELE@LGI@AA - ZZ - 0@
+09/06/2015 12:00:00@09/06/2015 13:30:00@Combustion engines and thei...@MITTICA ANTONIO@01AM@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Electromagnetic fields and ...@VECCHI GIUSEPPE@5P@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Robotics@BONA BASILIO@5I@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Fluid Automation@MAZZA LUIGI@5I@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 14:30:00@Electromagnetic fields and ...@VECCHI GIUSEPPE@5I@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@System and device programming@LAFACE PIETRO@10I@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Termofisica dell'edificio@PERINO MARCO@4M@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 16:00:00@Sistemi non lineari per l'i...@GILLI MARCO@7D@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 16:00:00@Azionamenti elettrici@VAGATI ALFREDO@7N@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Tecnologia dei materiali po...@SANGERMANO MARCO@4M@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 16:00:00@Progettazione integrale@CALDERA CARLO@5D@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Architettura ed economia ur... - Fisica tecnica am...@CORGNATI STEFANO PAOLO@201@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 16:00:00@Architettura ed economia ur... - Fisica tecnica am...@CORGNATI STEFANO PAOLO@201@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 14:30:00@Strategia@ organizzazione e...@AA - LZ - 1@PAOLUCCI EMILIO@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Strategia@ organizzazione e...@AA - LZ - 1@PAOLUCCI EMILIO@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Strategia@ organizzazione e...@AA - LZ - 1@PAOLUCCI EMILIO@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Architettura e spazio urbano A - Tecnologia dell'...@ARNAUDO GIOVANNI@208@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Architettura e spazio urbano A - Tecnologia dell'...@ARNAUDO GIOVANNI@208@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 16:00:00@Electronic systems for mech...@CHIABERGE MARCELLO@LED 8@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 14:30:00@Convex optimization and eng...@CALAFIORE GIUSEPPE CARLO@10I@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Convex optimization and eng...@CALAFIORE GIUSEPPE CARLO@10I@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 13:00:00@Aerospace control systems@CANUTO ENRICO@8I@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Valutazione e gestione del ...@PATRUCCO MARIO@9I@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Ingegneria del suono@MASOERO MARCO CARLO@1T@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Industrial networks and rea...@VIOLANTE MASSIMO@10@AA - ZZ - 0@
+11/06/2015 16:00:00@11/06/2015 19:00:00@Industrial networks and rea...@VIOLANTE MASSIMO@14@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Politiche urbane e territor...@JANIN RIVOLIN YOCCOZ UMBERTO@5V@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 10:00:00@Politiche urbane e territor...@JANIN RIVOLIN YOCCOZ UMBERTO@5V@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 19:00:00@Multimedia signal processing@MAGLI ENRICO@2T@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Advanced engineering thermo... - Advanced topics o...@ASINARI PIETRO@10D@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Meccanica delle macchine@QUAGLIA GIUSEPPE@12A@AA - LZ - 1@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Workshop "Applicazioni avan...@GARNERO GABRIELE@LAIB2M@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 14:30:00@Fluid power I@RUNDO MASSIMO@17A@AA - ZZ - 0@
+10/06/2015 17:30:00@10/06/2015 19:00:00@Advanced engineering thermo... - Numerical modelling@CANUTO CLAUDIO@6C@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Advanced design for signal ...@CANAVERO FLAVIO@8I@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Advanced design for signal ...@CANAVERO FLAVIO@8I@AA - ZZ - 0@
+10/06/2015 16:00:00@10/06/2015 19:00:00@Microwave electronics@GHIONE GIOVANNI@12D@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 14:30:00@Propulsione di veicoli elet...@GUGLIELMI PAOLO@6P@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Mobile broadband network@CHIASSERINI CARLA FABIANA@5N@AA - ZZ - 0@
+10/06/2015 09:00:00@10/06/2015 13:30:00@Car body design and aerodyn...@TONOLI ANDREA@03AM@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 19:00:00@System and device programming@LAFACE PIETRO@12D@AA - ZZ - 0@
+11/06/2015 16:00:00@11/06/2015 19:00:00@Computational methods for t...@ZANINO ROBERTO@CAPETTI@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 13:00:00@Computational methods for t...@ZANINO ROBERTO@CAPETTI@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 17:30:00@Termofisica dell'edificio@PERINO MARCO@2N@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Fluidodinamica computaziona... - Fluidodinamica de...@LAROCCA FRANCESCO@19@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 10:00:00@Strutture aeronautiche@DI SCIUVA MARCO@9I@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 11:30:00@Strutture aeronautiche@DI SCIUVA MARCO@9I@AA - ZZ - 0@
+10/06/2015 17:30:00@10/06/2015 19:00:00@Informatica medica@BALESTRA GABRIELLA@29B@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 13:00:00@Sistemi elettrici di potenza@CARPANETO ENRICO@7B@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Gestione dell'innovazione e...@DEMARTINI CLAUDIO GIOVANNI@LEP A (DIGEP)@AA - ZZ - 0@
+11/06/2015 13:00:00@11/06/2015 14:30:00@Advanced wireless communica...@TARICCO GIORGIO@LAIB3B@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 17:30:00@Materiali per l'aerospazio@BIAMINO SARA@4N@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 10:00:00@Microwave electronics@GHIONE GIOVANNI@LAIB2B@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 13:00:00@Economia e gestione competi...@BOMPARD ETTORE FRANCESCO@11B@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Multimedia signal processing@MAGLI ENRICO@8I@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Termofisica dell'edificio@PERINO MARCO@9T@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Termofisica dell'edificio@PERINO MARCO@9T@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Applicazioni avanzate di fi... - Modelli e metodi ...@CANUTO CLAUDIO@LAIB3B@AA - GZ - 1@
+09/06/2015 14:30:00@09/06/2015 16:00:00@Applicazioni avanzate di fi... - Modelli e metodi ...@CANUTO CLAUDIO@LAIB3B@AA - GZ - 1@
+09/06/2015 16:00:00@09/06/2015 17:30:00@Applicazioni avanzate di fi... - Modelli e metodi ...@CANUTO CLAUDIO@LAIB3B@AA - GZ - 1@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Workshop "Rappresentazione ...@CERESA FRANCA@10V@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Workshop "Rappresentazione ...@CERESA FRANCA@10V@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Scienza e tecnologia dei ma...@FINO PAOLO@16@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 10:00:00@Programmazione di sistema@CABODI GIANPIERO@4D@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Sistemi integrati di produz...@IULIANO LUCA@29B@AA - LZ - 1@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Sistemi integrati di produz...@IULIANO LUCA@29B@AA - LZ - 1@
+08/06/2015 13:00:00@08/06/2015 14:30:00@Progettazione integrale@CALDERA CARLO@2N@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Impianti meccanici@SCHENONE MAURIZIO@25@AA - ZZ - 0@
+08/06/2015 19:00:00@08/06/2015 20:30:00@Lingua italiana II livello@CAVALLARI LORELLA@4N@AA - ZZ - 0@
+09/06/2015 19:00:00@09/06/2015 20:30:00@Lingua italiana II livello@CAVALLARI LORELLA@4N@AA - ZZ - 0@
+11/06/2015 19:00:00@11/06/2015 20:30:00@Lingua italiana II livello@CAVALLARI LORELLA@4N@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 14:30:00@Bioinformatics@FICARRA ELISA@8I@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 14:30:00@Bioinformatics@FICARRA ELISA@8I@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Scienza e tecnologia dei ma...@FINO PAOLO@1D@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 19:00:00@Atelier di pianificazione l... - Pianificazione lo...@BARBIERI CARLO ALBERTO@5V@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Sustainable Manufacturing@SETTINERI LUCA@11@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Sustainable Manufacturing@SETTINERI LUCA@13@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 10:00:00@Sustainable Manufacturing@SETTINERI LUCA@13@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Architecture and urban econ... - Architectural and...@TRISCIUOGLIO MARCO@203@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Architecture and urban econ... - Architectural and...@TRISCIUOGLIO MARCO@203@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 11:30:00@Structural mechanics/Petrol... - Petroleum geomech...@DEANGELI CHIARA@15A@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Meccanica delle macchine@QUAGLIA GIUSEPPE@27B@AA - LZ - 1@
+09/06/2015 10:00:00@09/06/2015 13:00:00@Sistemi elettronici per la ...@MARTINA MAURIZIO@5T@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Economia e gestione competi...@BOMPARD ETTORE FRANCESCO@13B@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Radar and remote sensing@MAGGIORA RICCARDO@17A@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 16:00:00@Stochastic processes/Modell... - Modelli statistici@GASPARINI MAURO@LAIB3D@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Business law@RAINELLI PAOLO@7T@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Business law@RAINELLI PAOLO@7T@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Software engineering@MORISIO MAURIZIO@9B@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 17:30:00@Textile technology - Process control a...@DEMICHELA MICAELA@DISAT2F@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Architecture and urban space - Architectural and...@BONINO MICHELE@202@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Architecture and urban space - Architectural and...@BONINO MICHELE@202@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 14:30:00@Innovative wireless platfor...@TRINCHERO DANIELE@8I@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Scienza e tecnologia dei ma...@BADINI CLAUDIO FRANCESCO@17A@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 13:00:00@Logistica industriale@SCHENONE MAURIZIO@5B@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 17:30:00@Logistica industriale@SCHENONE MAURIZIO@5B@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Atelier Progetto urbanistico E - Sociologia dell'a...@CHIODI SARAH ISABELLA@R4@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Informatica grafica@LAMBERTI FABRIZIO@ACSLab@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Architecture and urban space - Sociology of Terr...@GRAEZER BIDEAU FLORENCE@202@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Architecture and urban space - Sociology of Terr...@GRAEZER BIDEAU FLORENCE@202@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 16:00:00@Propulsione di veicoli elet...@GUGLIELMI PAOLO@1P@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Atelier di pianificazione l... - Valutazione e fat...@ZORZI FERRUCCIO@5V@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@FattibilitÃ e valutazione e...@PRIZZON FRANCESCO@4P@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 14:30:00@Automation and planning of ...@CARLUCCI DONATO@11T@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Robotics@BONA BASILIO@11T@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Reti wireless@CASETTI CLAUDIO ETTORE@10I@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Idraulica tecnica@BUTERA ILARIA@1B@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 11:30:00@Strutture aeronautiche@DI SCIUVA MARCO@4M@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Sistemi elettronici a basso...@ZAMBONI MAURIZIO@LED 2@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Mobile broadband network@CHIASSERINI CARLA FABIANA@8D@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Modelli organizzativi e HRM@GARBELLANO SALVATORE@11@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 14:30:00@Modelli organizzativi e HRM@GARBELLANO SALVATORE@13@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Gestione dei sistemi energe...@MANCO' SALVATORE@8C@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Gestione dei sistemi energe...@MANCO' SALVATORE@8C@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Workshop "Progettare e cert...@MUTANI GUGLIELMINA@2V@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 16:00:00@Programmazione di sistema@CABODI GIANPIERO@3I@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Programmazione di sistema@CABODI GIANPIERO@3I@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@FattibilitÃ e valutazione e...@PRIZZON FRANCESCO@3D@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 14:30:00@Sperimentazione su struttur... - Sperimentazione s...@FRULLA GIACOMO@13A@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Model-based software design@VIOLANTE MASSIMO@3I@AA - ZZ - 0@
+12/06/2015 11:30:00@12/06/2015 14:30:00@Model-based software design@VIOLANTE MASSIMO@3I@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Applicazioni Internet@MALNATI GIOVANNI@LABINF@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Multimedia signal processing@MAGLI ENRICO@5P@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 11:30:00@Costruzione di macchine@BELINGARDI GIOVANNI@27@AA - LZ - 1@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Atelier Progettazione urbana B - Progettazione urb...@GUARINI STEFANIA@2V@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 14:30:00@Scienza e tecnologia dei ma...@VITALE BROVARONE CHIARA@10A@AA - LZ - 1@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Costruzione di macchine@BELINGARDI GIOVANNI@1P@AA - LZ - 1@
+09/06/2015 16:00:00@09/06/2015 19:00:00@Electronic properties of ma...@FERRERO SERGIO@11T@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Tecnica ed economia dei tra...@PRONELLO CRISTINA@17A@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 16:00:00@Idraulica tecnica@BUTERA ILARIA@29@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 14:30:00@Operating systems@REBAUDENGO MAURIZIO@1T@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Teoria e progetto delle str...@GIORDANO LUCA@23@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 16:00:00@Combustione e gasdinamica d...@SPESSA EZIO@4M@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@Aeroacustica/Aerodinamica s... - Aeroacustica@ARINA RENZO@9B@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 10:00:00@Scienza e tecnologia dei ma...@BADINI CLAUDIO FRANCESCO@1D@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 16:00:00@InstabilitÃ statica e dinam... - Calcolo automatic...@CARBONE VINCENZO ILARIO@Aula B - Area Diati/Trasporti@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 19:00:00@Physics of technological pr... - Micro & Nano systems@DEMARCHI DANILO@10D@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 16:00:00@Polimeri avanzati@ degradaz...@AA - ZZ - 0@FRACHE ALBERTO@
+09/06/2015 10:00:00@09/06/2015 13:00:00@Polimeri avanzati@ degradaz...@AA - ZZ - 0@FRACHE ALBERTO@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Modelli matematici in biome...@PREZIOSI LUIGI@LAIB2B@AA - ZZ - 0@
+11/06/2015 10:30:00@11/06/2015 13:30:00@Car body design and aerodyn...@TONOLI ANDREA@01AM@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Workshop "Il progetto illum...@AGHEMO CHIARA@4V@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 16:00:00@Scienza e tecnologia dei ma...@BADINI CLAUDIO FRANCESCO@25@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@System and device programming@LAFACE PIETRO@LABINF@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Radiating electromagnetic s...@MATEKOVITS LADISLAU@2I@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 16:00:00@Intelligenza artificiale@PICCOLO ELIO@5P@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 16:00:00@Intelligenza artificiale@PICCOLO ELIO@5N@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Risk Analysis@CARPIGNANO ANDREA@6P@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 16:00:00@Meccanica delle rocce@SCAVIA CLAUDIO@7B@AA - ZZ - 0@
+08/06/2015 09:00:00@08/06/2015 12:00:00@Combustion engines and thei...@MITTICA ANTONIO@03AM@AA - ZZ - 0@
+11/06/2015 15:00:00@11/06/2015 18:00:00@Combustion engines and thei...@MITTICA ANTONIO@03AM@AA - ZZ - 0@
+12/06/2015 09:00:00@12/06/2015 12:00:00@Combustion engines and thei...@MITTICA ANTONIO@03AM@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 13:00:00@Architettura ed economia ur... - Composizione arch...@ROBIGLIO MATTEO@201@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Architettura ed economia ur... - Composizione arch...@ROBIGLIO MATTEO@201@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Atelier Progetto urbanistico D - Sociologia dell'a...@CHIODI SARAH ISABELLA@R5@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 11:30:00@Workshop "Il progetto illum...@AGHEMO CHIARA@8UP@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 13:00:00@Atelier CompatibilitÃ e sos... - Strumenti avanzat...@ROGGERO MARCO@6V@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Atelier Progetto urbanistico B - Urbanistica @ALBANO ROBERTO@1V@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 17:30:00@Modelli matematici in biome...@PREZIOSI LUIGI@LAIB3B@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 19:00:00@Modellazione funzionale del...@TORNINCASA STEFANO@3D@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Computer animation@SANNA ANDREA@1T@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 17:30:00@Meccanica dei fluidi indust...@CAMPOREALE CARLO VINCENZO@5B@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Impianti meccanici@SCHENONE MAURIZIO@6P@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Microelettronica digitale@LAVAGNO LUCIANO@5N@AA - ZZ - 0@
+09/06/2015 16:00:00@09/06/2015 19:00:00@Innovation management and p...@MONTAGNA FRANCESCA@4D@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Structural mechanics/Petrol... - Petroleum geomech...@DEANGELI CHIARA@Aula B - Area Diati/Trasporti@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 19:00:00@Atelier CompatibilitÃ e sos... - Restauro@BARTOLOZZI CARLA@6V@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 11:30:00@Bio-Micro&Nano Systems@DEMARCHI DANILO@5I@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 10:00:00@Graphs and dynamics over ne...@FAGNANI FABIO@9B@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Meccanica delle rocce@SCAVIA CLAUDIO@19A@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Fluid Automation@MAZZA LUIGI@LAB@AA - ZZ - 0@
+11/06/2015 13:00:00@11/06/2015 16:00:00@Fluid Automation@MAZZA LUIGI@LAB@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 14:30:00@Software engineering@MORISIO MAURIZIO@5I@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Software engineering@MORISIO MAURIZIO@5I@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 13:00:00@Elettronica analogica e di ...@FIORI FRANCO@12D@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 13:00:00@Tecnologie di formatura@ROSSO MARIO@23@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Linguaggi e ambienti multim... - Linguaggi e ambie...@TADDEO GABRIELLA@5T@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 11:30:00@Linguaggi e ambienti multim... - Linguaggi e ambie...@TADDEO GABRIELLA@5T@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Strategy@ Organization and ...@AA - ZZ - 0@NEIROTTI PAOLO@
+12/06/2015 11:30:00@12/06/2015 14:30:00@Strategy@ Organization and ...@AA - ZZ - 0@NEIROTTI PAOLO@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Impianti meccanici@SCHENONE MAURIZIO@3S@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 17:30:00@Devices for optical communi...@PERRONE GUIDO@LED 6@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Textile technology - Process control a...@DEMICHELA MICAELA@DISAT1F@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Textile technology - Process control a...@DEMICHELA MICAELA@DISAT1F@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 10:00:00@Textile technology - Process control a...@DEMICHELA MICAELA@DISAT1F@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Textile fibres@TONIN CLAUDIO@DISAT1F@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 14:30:00@Operations research: theory...@LEONARDI EMILIO@10D@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 19:00:00@Identification and control ...@TARAGNA MICHELE@2I@AA - ZZ - 0@
+11/06/2015 13:00:00@11/06/2015 16:00:00@Identification and control ...@TARAGNA MICHELE@2I@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Advanced engineering thermo... - Advanced topics o...@ASINARI PIETRO@9B@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 14:30:00@Physics of technological pr... - Physics of techno...@SCALTRITO LUCIANO@2D@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 11:30:00@Idraulica fluviale/Acquedot... - Acquedotti e fogn...@BOANO FULVIO@LAIB1D@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Models and scenarios for en...@ZUCCHETTI MASSIMO@13A@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 11:30:00@Radiating electromagnetic s...@MATEKOVITS LADISLAU@4D@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 19:00:00@Atelier Progettazione urbana B - Composizione arch...@NOTA MARCO@2V@AA - ZZ - 0@
+10/06/2015 16:00:00@10/06/2015 19:00:00@Technology for renewable en...@FRACASTORO GIOVANNI VINCENZO@29@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 16:00:00@Automatic control@BELFORTE GUSTAVO@4P@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Complementi di geotecnica@DEL GRECO OTELLO@4M@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 13:00:00@Complementi di geotecnica@DEL GRECO OTELLO@4M@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Risk Analysis@CARPIGNANO ANDREA@8N@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 16:00:00@Analisi e gestione dei sist...@SETTINERI LUCA@1I@AA - LZ - 1@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Analisi e gestione dei sist...@SETTINERI LUCA@1I@AA - LZ - 1@
+12/06/2015 11:30:00@12/06/2015 13:00:00@Analisi e gestione dei sist...@SETTINERI LUCA@1I@AA - LZ - 1@
+09/06/2015 13:00:00@09/06/2015 16:00:00@Combustione e gasdinamica d...@SPESSA EZIO@23@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 13:00:00@Textile fibres@TONIN CLAUDIO@DISAT2F@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 10:00:00@Ingegneria degli acquiferi@SETHI RAJANDREA@15@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 10:00:00@Advanced engineering thermo... - Advanced topics o...@ASINARI PIETRO@8D@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 11:30:00@Advanced engineering thermo... - Advanced topics o...@ASINARI PIETRO@8D@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Advanced engineering thermo... - Advanced topics o...@ASINARI PIETRO@8D@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Workshop "Applicazioni avan...@GARNERO GABRIELE@LIA@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 19:00:00@Pianificazione dei trasporti@PRONELLO CRISTINA@5V@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 13:00:00@Atelier Progetto urbanistico D - Urbanistica @VITALE BROVARONE ELISABETTA@R5@AA - ZZ - 0@
+10/06/2015 17:30:00@10/06/2015 19:00:00@Thermal measurements and co...@DE MARCHI ANDREA@3P@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 13:00:00@Atelier Progetto urbanistico C - Urbanistica @SAMPIERI ANGELO@9V@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 16:00:00@Elettronica analogica e di ...@FIORI FRANCO@10D@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Elettronica analogica e di ...@FIORI FRANCO@10D@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Network modelling and stoch... - Network modelling@AJMONE MARSAN MARCO GIUSEPPE@2D@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 14:30:00@Applicazioni avanzate di fi... - Applicazioni avan...@ASINARI PIETRO@16@AA - GZ - 1@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Teoria e progetto delle str...@GIORDANO LUCA@Aula B - Area Diati/Trasporti@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Applicazioni avanzate di fi... - Applicazioni avan...@ASINARI PIETRO@29B@AA - GZ - 1@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Tecniche di modellazione nu...@GUGLIOTTA ANTONIO@LAIB3B@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 11:30:00@Sistemi per l'illuminazione...@AGHEMO CHIARA@6P@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 13:00:00@Devices for optical communi...@PERRONE GUIDO@21A@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 16:00:00@Microelectronic devices@DONATI GUERRIERI SIMONA@11T@AA - ZZ - 0@
+11/06/2015 13:00:00@11/06/2015 14:30:00@Operating systems@REBAUDENGO MAURIZIO@LABINF@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Azionamenti elettrici@VAGATI ALFREDO@4N@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 13:00:00@Elaborazione e trasmissione...@MASALA ENRICO@3I@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 10:00:00@Elaborazione e trasmissione...@MASALA ENRICO@3I@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 16:00:00@Advanced wireless communica...@TARICCO GIORGIO@11T@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Consolidamento di rocce e t...@DEL GRECO OTELLO@BIBOLINI@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Consolidamento di rocce e t...@DEL GRECO OTELLO@BIBOLINI@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Advanced wireless communica...@TARICCO GIORGIO@11S@AA - ZZ - 0@
+09/06/2015 10:00:00@09/06/2015 13:00:00@Ingegneria del software@BRUNO GIORGIO@4D@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 14:30:00@Physics of technological pr... - Micro & Nano systems@DEMARCHI DANILO@2D@AA - ZZ - 0@
+12/06/2015 13:00:00@12/06/2015 14:30:00@Business intelligence@CERQUITELLI TANIA@11@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 13:00:00@Gestione ambientale nelle i...@COMOGLIO CLAUDIO@13A@AA - ZZ - 0@
+08/06/2015 13:00:00@08/06/2015 16:00:00@Electronic properties of ma...@GHIONE GIOVANNI@LAIB1D@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 11:30:00@Costruzione di macchine@BELINGARDI GIOVANNI@10A@AA - LZ - 1@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Reliable embedded systems d...@PRINETTO PAOLO ERNESTO@11S@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 19:00:00@Ergotecnica edile@MORRA LUIGI@2N@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 19:00:00@Atelier CompatibilitÃ e sos... - Strumenti avanzat...@MASSA ALESSANDRO@7V@AA - ZZ - 0@
+12/06/2015 13:00:00@12/06/2015 14:30:00@Aeroacustica/Aerodinamica s... - Aerodinamica sper...@IUSO GAETANO@11B@AA - ZZ - 0@
+08/06/2015 16:00:00@08/06/2015 17:30:00@Textile technology - Advanced textile ...@MALUCELLI GIULIO@DISAT2F@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Fluid Automation@MAZZA LUIGI@17@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Computer animation@SANNA ANDREA@5T@AA - ZZ - 0@
+09/06/2015 17:30:00@09/06/2015 19:00:00@Dispositivi impiantabili at...@KNAFLITZ MARCO@27@AA - ZZ - 0@
+11/06/2015 17:30:00@11/06/2015 19:00:00@Dispositivi impiantabili at...@KNAFLITZ MARCO@27@AA - ZZ - 0@
+09/06/2015 17:30:00@09/06/2015 19:00:00@Dispositivi impiantabili at...@KNAFLITZ MARCO@29@AA - ZZ - 0@
+11/06/2015 17:30:00@11/06/2015 19:00:00@Dispositivi impiantabili at...@KNAFLITZ MARCO@29@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 14:30:00@Complementi di ingegneria s...@GENON GIUSEPPE@BIBOLINI@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Idraulica tecnica@BUTERA ILARIA@7N@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Complementi di macchine e m...@NUCCIO PATRIZIO@29@AA - ZZ - 0@
+12/06/2015 16:00:00@12/06/2015 17:30:00@Complementi di macchine e m...@NUCCIO PATRIZIO@29@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 11:30:00@Energy savings and comfort ...@FRACASTORO GIOVANNI VINCENZO@25@AA - ZZ - 0@
+08/06/2015 14:30:00@08/06/2015 17:30:00@Bio-Micro&Nano Systems@DEMARCHI DANILO@9I@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Elaborazione di segnali bio...@MOLINARI FILIPPO@29B@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Idraulica ambientale/Idrolo... - Idraulica ambientale@RIDOLFI LUCA@7N@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Idraulica ambientale/Idrolo... - Idrologia e clima...@LAIO FRANCESCO@10A@AA - ZZ - 0@
+09/06/2015 13:00:00@09/06/2015 14:30:00@Fluidodinamica computaziona... - Fluidodinamica de...@LAROCCA FRANCESCO@3P@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Stampi e processi di formatura@MINETOLA PAOLO@13A@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 16:00:00@Stampi e processi di formatura@MINETOLA PAOLO@13A@AA - ZZ - 0@
+08/06/2015 10:00:00@08/06/2015 13:00:00@Geomatica@LINGUA ANDREA MARIA@LAIB3D@AA - LZ - 1@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Atelier Progettazione urbana A - Progettazione urb...@CAVALIERE ANDREA@6V@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Valutazione e gestione del ...@PATRUCCO MARIO@4N@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 10:00:00@ImprenditorialitÃ e busines...@PAOLUCCI EMILIO@1I@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 11:30:00@ImprenditorialitÃ e busines...@PAOLUCCI EMILIO@1I@AA - ZZ - 0@
+11/06/2015 16:00:00@11/06/2015 19:00:00@ImprenditorialitÃ e busines...@PAOLUCCI EMILIO@1I@AA - ZZ - 0@
+08/06/2015 17:30:00@08/06/2015 19:00:00@Informatica medica@BALESTRA GABRIELLA@7N@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 16:00:00@Informatica medica@BALESTRA GABRIELLA@7N@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Innovation management and p...@MONTAGNA FRANCESCA@1I@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Distributed programming@SISTO RICCARDO@12D@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 10:00:00@Distributed programming@SISTO RICCARDO@12D@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Costruzione di macchine@BELINGARDI GIOVANNI@8N@AA - LZ - 1@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Mobile application development@MALNATI GIOVANNI@LABINF@AA - ZZ - 0@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Microelectronic devices@DONATI GUERRIERI SIMONA@10I@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Sistemi per l'illuminazione...@AGHEMO CHIARA@4V@AA - ZZ - 0@
+11/06/2015 16:00:00@11/06/2015 19:00:00@Sistemi di propulsione elet...@TENCONI ALBERTO@10C@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Digital Communications@TARICCO GIORGIO@10I@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Models and scenarios for en...@ZUCCHETTI MASSIMO@8N@AA - ZZ - 0@
+10/06/2015 11:30:00@10/06/2015 13:00:00@Energy savings and comfort ...@FRACASTORO GIOVANNI VINCENZO@15@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Progetto di reti locali@RISSO FULVIO GIOVANNI OTTAVIO@5I@AA - ZZ - 0@
+11/06/2015 14:30:00@11/06/2015 17:30:00@Progetto di reti locali@RISSO FULVIO GIOVANNI OTTAVIO@5I@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Formal languages and compilers@RIVOIRA SILVANO@10I@AA - ZZ - 0@
+12/06/2015 08:30:00@12/06/2015 11:30:00@Elettronica analogica e di ...@FIORI FRANCO@2D@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Ingegneria del software@BRUNO GIORGIO@3I@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Valutazione e gestione del ...@PATRUCCO MARIO@3N@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 14:30:00@Sistemi per l'illuminazione...@AGHEMO CHIARA@3P@AA - ZZ - 0@
+12/06/2015 10:00:00@12/06/2015 13:00:00@Wireless and optical systems@POGGIOLINI PIERLUIGI@12D@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 10:00:00@Fluidodinamica computaziona... - Fluidodinamica de...@LAROCCA FRANCESCO@5B@AA - ZZ - 0@
+11/06/2015 10:00:00@11/06/2015 11:30:00@Fluidodinamica computaziona... - Fluidodinamica de...@LAROCCA FRANCESCO@5B@AA - ZZ - 0@
+11/06/2015 11:30:00@11/06/2015 13:00:00@Fluidodinamica computaziona... - Fluidodinamica de...@LAROCCA FRANCESCO@5B@AA - ZZ - 0@
+09/06/2015 08:30:00@09/06/2015 11:30:00@Idraulica II@BIANCO GENNARO@9S@AA - ZZ - 0@
+10/06/2015 08:30:00@10/06/2015 10:00:00@Idraulica II@BIANCO GENNARO@9S@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 10:00:00@Idraulica II@BIANCO GENNARO@9S@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Tecnologia dei materiali po...@SANGERMANO MARCO@2C@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Graphs and dynamics over ne...@FAGNANI FABIO@7D@AA - ZZ - 0@
+09/06/2015 14:30:00@09/06/2015 17:30:00@Wireless and optical systems@POGGIOLINI PIERLUIGI@11S@AA - ZZ - 0@
+08/06/2015 08:30:00@08/06/2015 10:00:00@Elaborazione di segnali bio...@MOLINARI FILIPPO@27B@AA - ZZ - 0@
+12/06/2015 16:00:00@12/06/2015 17:30:00@Elaborazione di segnali bio...@MOLINARI FILIPPO@27B@AA - ZZ - 0@
+09/06/2015 11:30:00@09/06/2015 13:00:00@Advanced electronic drives@MUSOLINO FRANCESCO@11S@AA - ZZ - 0@
+10/06/2015 10:00:00@10/06/2015 13:00:00@Radar and remote sensing@MAGGIORA RICCARDO@10D@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Physics of technological pr... - Micro & Nano systems@DEMARCHI DANILO@5I@AA - ZZ - 0@
+12/06/2015 14:30:00@12/06/2015 17:30:00@Costruzione di macchine@BELINGARDI GIOVANNI@9I@AA - LZ - 1@
+10/06/2015 13:00:00@10/06/2015 14:30:00@Propulsione di veicoli elet...@GUGLIELMI PAOLO@13B@AA - ZZ - 0@
+08/06/2015 11:30:00@08/06/2015 13:00:00@Sistemi elettronici a basso...@ZAMBONI MAURIZIO@2I@AA - ZZ - 0@
+11/06/2015 08:30:00@11/06/2015 11:30:00@Sistemi elettronici a basso...@ZAMBONI MAURIZIO@2I@AA - ZZ - 0@
+10/06/2015 14:30:00@10/06/2015 17:30:00@Atelier Progetto urbanistico C - Sociologia dell'a...@CRIVELLO SILVIA@9V@AA - ZZ - 0@
